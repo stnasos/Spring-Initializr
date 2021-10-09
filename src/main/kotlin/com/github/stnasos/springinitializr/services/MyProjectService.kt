@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.stnasos.springinitializr.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.stnasos.springinitializr.MyBundle
 
 class MyProjectService(project: Project) {
 
